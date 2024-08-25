@@ -1,5 +1,7 @@
 <?php
 
+namespace skillbelajar\pawan_couchdb;
+
 class Buku
 {
     // Properties
