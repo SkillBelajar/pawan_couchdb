@@ -1,0 +1,8 @@
+{
+    "name": "skillbelajar/pawan_couchdb",
+    "description": "test",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
