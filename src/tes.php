@@ -1,6 +1,6 @@
 <?php
 
-namespace skillbelajar\pawan_couchdb;
+namespace pc;
 
 class Buku
 {
@@ -13,5 +13,10 @@ class Buku
     public function getInfoBuku($judul)
     {
         echo $judul;
+    }
+
+    public function tes()
+    {
+        echo "ok2";
     }
 }
