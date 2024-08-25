@@ -1,15 +1,10 @@
 {
     "name": "skillbelajar/pawan_couchdb",
-    "autoload": {
-        "psr-4": {
-            "Skillbelajar\\PawanCouchdb\\": "src/"
-        }
+    "description": "test",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.0",
+        "another-vendor/package": "1.*"
     },
-    "authors": [
-        {
-            "name": "SkillBelajar",
-            "email": "80496983+SkillBelajar@users.noreply.github.com"
-        }
-    ],
-    "require": {}
+    "minimum-stability": "dev"
 }
