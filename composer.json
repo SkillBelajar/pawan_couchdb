@@ -1,6 +1,7 @@
 {
     "name": "skillbelajar/pawan_couchdb",
     "description": "test",
+    "license": "MIT",
     "require": {
         "php": ">=7.4",
         "another-vendor/package": "1.*"
