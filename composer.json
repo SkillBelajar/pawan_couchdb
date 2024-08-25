@@ -3,8 +3,7 @@
     "description": "test",
     "license": "MIT",
     "require": {
-        "php": ">=8.0",
-        "another-vendor/package": "1.*"
+        "php": ">=8.0"
     },
     "minimum-stability": "dev"
 }
